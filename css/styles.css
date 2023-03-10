@@ -1,0 +1,105 @@
+body{
+    margin:0;
+    text-align: center;
+    font-family:cursive;
+    background:#e6e6fa;
+    color:#483d8b;
+    padding:auto;
+}
+.top-container{
+    position:center;
+    
+}
+p{
+    line-height: 2;
+}
+a{
+    background-color: #d1baeb;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin:10px 20px;
+    text-decoration: none;
+
+}
+a:hover{
+   color:#eaf6f6
+}
+.copyright{
+    color:#e6e6fa
+    font-size:0.75;
+    padding :0px 20px
+}
+hr{
+    border:dotted #3e7474 6px;
+    border-bottom:none;
+    width:4%;
+    margin:100px auto;
+}
+
+h1{
+   font-size:50px; 
+    margin top: 50px auto 0 auto ;
+    font-family: 'Sacramento',cursive;
+    color:#a0522d;
+}
+h2{
+    font-family:cursive;
+    font: size 2.5em;
+    color:#556b2f;
+    padding: 10px;
+    
+
+}
+h3{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:#483d8b
+
+}
+.intro{
+    width:30%;
+    margin:auto
+}
+.neha{
+    width:40%;
+    margin : 40px auto 60px;
+}
+.Niharika{
+    width:30%;
+    margin : 40px auto 60px;
+}
+.Asha{
+    width:40%;
+    margin : 40px auto 60px;
+}
+.middle-container{
+    
+    margin :100px 0;
+
+
+}
+.bottom-friends{
+
+}
+.btn{
+    font-family: arial;
+    font-weight: bold;
+    color: #07006A !important;
+    font-size: 14px;
+    text-shadow: 1px 1px 0px #D6A0DE;
+    box-shadow: 1px 1px 1px #BEE2F9;
+    padding: 10px 10px;
+    border-radius: 16px;
+    border: 2px solid #A3A3A3;
+    background: #E5D1EE;
+    background: linear-gradient(to top, #E5D1EE, #C9ACCF);
+  }
+  .testbutton:hover {
+    color: #14396A !important;
+    background: #A27ACF;
+    background: linear-gradient(to top, #A27ACF, #9E81EE);
+  }
+  .bottom-container{
+    margin:40px auto 60px;
+    background-color: #d1baeb;
+    padding:10px 0 20px;
+  }
+              
